@@ -1,0 +1,20 @@
+.odd-element {
+    background-color:RGB(255,182,193);
+    font-family: "Verdana", sans-serif;
+}
+
+#two {
+    color:RGB(0,0,255);
+    font-size: 36px;
+    font-family:"Times New Roman";
+}
+
+.odd-element.three {
+    font-size:24px;
+}
+
+#four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
